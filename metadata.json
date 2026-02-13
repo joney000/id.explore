@@ -1,0 +1,6 @@
+
+{
+  "name": "Identity Explorer",
+  "description": "An AI-powered dashboard that uses Gemini to fetch and display comprehensive public data about any person, object, or place with real-time Google Search grounding.",
+  "requestFramePermissions": ["geolocation"]
+}
